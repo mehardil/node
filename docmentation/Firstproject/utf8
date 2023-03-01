@@ -1,0 +1,1 @@
+Note that using synchronous file operations can block the Node.js event loop and cause performance issues, especially in high-traffic applications. It's generally recommended to use asynchronous file operations instead.

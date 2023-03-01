@@ -1,0 +1,11 @@
+{
+  "name": "firstproject",
+  "version": "18.12.1",
+  "description": "my first tets project",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
